@@ -1,4 +1,4 @@
-## Setp 1 Systemd Services (Production Setup)
+## Systemd Services (Production Setup)
 
 ### - 1. Celery Service
 ```sh
@@ -51,7 +51,7 @@
 ```
 ### find USERNAME 
 ```sh 
-    whoami
+whoami
 ```
 ### Explanation of Each Section
 [Unit]
