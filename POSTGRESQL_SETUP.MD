@@ -15,7 +15,7 @@ sudo systemctl enable postgresql
 ### Open the PostgreSQL config file
 
 ```sh 
-sudo nano /etc/postgresql/VERSION/main/postgresql.conf
+sudo nano /etc/postgresql/<VERSION>/main/postgresql.conf # e.g., 15, 14 ,16 etc
 ```
 
 ### find  Connection Settings -
