@@ -119,5 +119,5 @@ sudo -u postgres psql
 ```
 ### step 2 : Change Password
 ```sh
-ALTER USER hospital_db WITH PASSWORD 'your_new_password';
+ALTER USER <USERNAME> WITH PASSWORD 'your_new_password'; #USER
 ```
